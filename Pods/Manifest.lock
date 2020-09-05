@@ -1,0 +1,54 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - CocoaLumberjack (3.0.0):
+    - CocoaLumberjack/Default (= 3.0.0)
+    - CocoaLumberjack/Extensions (= 3.0.0)
+  - CocoaLumberjack/Core (3.0.0)
+  - CocoaLumberjack/Default (3.0.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (3.0.0):
+    - CocoaLumberjack/Default
+  - DateTools (1.7.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - hpple (0.2.0)
+  - JSONKit-NoWarning (1.2)
+  - JSONModel (1.2.0)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - CocoaLumberjack (~> 3.0.0)
+  - DateTools (~> 1.7.0)
+  - FMDB (~> 2.6.2)
+  - hpple (~> 0.2.0)
+  - JSONKit-NoWarning (~> 1.2)
+  - JSONModel (~> 1.2.0)
+  - Masonry (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CocoaLumberjack: c823149bccc5519a9447aeb433be7b1212a7d6a5
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  hpple: 3b765f96fc2cd56ad1a49aef6f7be5cb2aa64b57
+  JSONKit-NoWarning: 3d27e6f9e6846ecf741e8c64dcadd7d5aa7193cb
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: e71bc6093ab23705c6c07d4162aae957b61ade43
+
+COCOAPODS: 1.0.1
